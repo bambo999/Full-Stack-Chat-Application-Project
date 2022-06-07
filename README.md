@@ -1,1 +1,1 @@
-# Full-Stack-Chat-Application-Project using collectionof technologies like mongodb, express, react, node.
+# Full-Stack-Chat-Application-Project using collection of technologies like mongodb, express, react, node.
